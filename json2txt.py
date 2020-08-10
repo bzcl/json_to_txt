@@ -1,8 +1,8 @@
 import os
 import json
 
-jpath='/home/bai/bzc/jsontotxt/json'
-tpath='/home/bai/bzc/jsontotxt/txt'
+jpath='./json'
+tpath='./txt'
 
 jfilenames=os.listdir(jpath)
 
